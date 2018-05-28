@@ -1,0 +1,49 @@
+body {
+    padding: 50px;
+    background-color: black;
+    font-family: sans-serif;
+    color: orange;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+#header {
+    font-size: 430%;
+    display: flex;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: orangered;
+}
+
+#image {
+    display: flex;
+    justify-content: center;
+}
+
+#searchEmoji {
+    border: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: orangered;
+    display: flex;
+    text-align: center;
+    font-size: 200%
+}
+
+#inputText {
+    text-align: center;
+    font-size: 65%;
+    background: yellowgreen;
+}
+
+#inputBox {
+    display: flex;
+    justify-content: center;
+}
+
+#emojiList {
+    display: flex;
+    justify-content: center;
+}
